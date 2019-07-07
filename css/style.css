@@ -1,0 +1,39 @@
+/*estilos langing page*/
+/*#encabezado{
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background-color: #009;
+    height: 100px;
+}
+#cuerpo {
+    height: auto;
+    width: 100%;
+}
+p {
+    margin: 0px;
+    padding: 0px;
+}*/
+/*-------------------menu------------*/
+html{height: 100%;
+width: 100%;}
+body{height: 100%;
+width: 100%;}
+#menu{
+    background-color: black;
+}
+
+.carousel .inner img{width: 20%; height: auto;}
+.carousel-control-left, .carolusel-control-right{
+    background-image: none;
+    color: chocolate;
+}
+.carousel-indicators li{
+    border-color: black;
+}
+.carousel-indicators li:active{
+    background-color: 
+
+}
+
